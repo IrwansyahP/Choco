@@ -1,0 +1,20 @@
+{
+  "name": "choco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^1.0.1",
+    "dbd.js-utils": "0.1.1",
+    "node-fetch": "^2.6.1",
+    "discord.js": "12.5.3"
+  }
+}
